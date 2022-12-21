@@ -1,0 +1,9 @@
+{
+    "database": [
+        {
+            "user": "dbuser",
+            "password": "dbpassword",
+            "db" : "dbname"
+        }
+    ]
+}
