@@ -4,3 +4,4 @@
 
 # Скриншоты
 
+![Alt-текст](https://prnt.sc/KFAJVHIvOyC3)
