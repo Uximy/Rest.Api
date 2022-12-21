@@ -6,11 +6,11 @@ $db = mysqli_connect("localhost", $array -> database[0] -> user, $array -> datab
 
 $valide = null;
 switch ($_SERVER['REMOTE_ADDR']) {
-    case '185.9.145.129':
+    case 'ip_black1':
         $valide = true;
         break;
     
-    case '95.59.93.102':
+    case 'ip_black2':
         $valide = true;
         break;
         
